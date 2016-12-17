@@ -1,0 +1,31 @@
+body {
+    background-color: #F8F8F8 !important;
+}
+
+.project img {
+    height: 250px;
+    border-radius: 15%;
+}
+
+.description {
+    padding-top: 30px;
+    margin-botton: 0px;
+}
+
+.image {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+section{
+  font-size:14px;
+  padding:0;
+  margin:0;
+  position:relative;
+  top: 20px;
+  font-family: 'Cuprum', sans-serif;
+}
+
+section h1{
+  font-size:32px;
+}
